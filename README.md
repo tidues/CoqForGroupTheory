@@ -1,7 +1,7 @@
 # CoqForGroupTheory
 An attempt to prove this result in group theory with coq:
 
-If group `G` is finite, then for any element `a' in 'G` there exist a positive integer `k` such that 'a^k = e' where 'e' is the identity element.
+If group `G` is finite, then for any element `a` in `G` there exist a positive integer `k` such that `a^k = e` where `e` is the identity element.
 
 Same thing have been done before with Agda (a dependent typed language can be used also as a theorem prover) https://github.com/tidues/AgdaProofsForAbstractAlgebra.
 
